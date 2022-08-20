@@ -1,0 +1,24 @@
+{
+  "name": "website-accessibility-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbnewlon/website-accessibility-tester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbnewlon/website-accessibility-tester/issues"
+  },
+  "homepage": "https://github.com/kbnewlon/website-accessibility-tester#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pa11y": "^6.2.3"
+  }
+}
